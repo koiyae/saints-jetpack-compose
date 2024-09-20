@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="saint1">Santa Joana d\'\Arc</string>
+    <string name="description1">Santa francesa e virgem guerreira!</string>
+    <string name="saint2">Santa Teresinha</string>
+    <string name="description2">Santa francesa e monja carmelita!</string>
+    <string name="saint3">Santo Antão</string>
+    <string name="description3">Padre do deserto e precursor do monasticismo!</string>
+    <string name="saint4">São João Batista</string>
+    <string name="description4">Mártir e precursor do Messias!</string>
+    <string name="saint5">São Miguel</string>
+    <string name="description5">Arcanjo e príncipe da milícia celeste!</string>
+    <string name="saint6">São José</string>
+    <string name="description6">Pai de Jesus e esposo da Virgem!</string>
+    <string name="topbar">Santos</string>
+</resources>
